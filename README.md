@@ -11,4 +11,4 @@ A vállalkozás teljeskörű klímaszolgáltatást biztosít Pátyodon és 30 km
 * Teljeskörű klímatelepítés (hűtő és fűtő rendszerek) ❄️
 * Klímák tisztítása, fertőtlenítése és karbantartása 🔧
 
-[![Facebook](https://img.shields.io/badge/Kövess_minket_Facebookon-0069B4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577473041862) [![Weboldal](https://img.shields.io/badge/Látogasd_meg_weboldalunkat-e77525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://patyodklima.hu)
+[![Facebook](https://img.shields.io/badge/Kövesd_őket_Facebookon-0069B4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577473041862) [![Weboldal](https://img.shields.io/badge/Látogasd_meg_weboldalukat-e77525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://patyodklima.hu)
